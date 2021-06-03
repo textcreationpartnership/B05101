@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offer'd for the making a law to prohibit the exportation of all silver which has been or shall be once melted in England and to prevent the clipping of our money for the future.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05101</idno><idno type="EEBO-CITATION">52614873</idno>
+  <idno type="VID">176058</idno>
+  <idno type="EEBO-PROQUEST">2240875185</idno>
+  
+            <idno type="STC">Wing R543</idno>
+            <idno type="STC">ESTC R224688</idno>
+            <idno type="OCLC">52614873</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B05101)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176058)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2760:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offer'd for the making a law to prohibit the exportation of all silver which has been or shall be once melted in England and to prevent the clipping of our money for the future.</title>
+               </titleStmt>
+               <extent>3, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Columbia University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Coinage --  England --  Early works to 1800.</term>
+               <term type="topical_term">Precious metal industries --  England --  Early works to 1800.</term>
+               <term type="topical_term">Silver coins --  England --  Early works to 1800.</term>
+               <term type="topical_term">Foreign trade regulation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:176058:1"/>
+            <pb facs="tcp:176058:1"/>
+            <pb n="1" facs="tcp:176058:2"/>
+            <head>REASONS <hi>Humbly offer'd for the making a</hi> Law <hi>to prohibit the Expor<g ref="char:EOLhyphen"/>tation of</hi> All <hi>Silver which has been, or shall be once melted in</hi> England, <hi>and to prevent the Clipping of our Money for the future.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">B</seg>Y a Law made in the 15th of <hi>Charles</hi> the 2d. Chap. 7. Sect. 12. <hi>All sorts of Foreign Coin, or Bullion of Gold or Silver,</hi> are allow'd to be transported <hi>Custom-free.</hi>
+            </p>
+            <p>This was design'd to be an Advantage to our Trade, and an Increase of our Coin, as the Title of the Act, and the Law it self (<hi>Sect.</hi> 12.) shews: But contrary to this, through the frau<g ref="char:EOLhyphen"/>dulent Contrivance of some designing Men (who have advanced themselves on the Publick Ruin) there has been (under the Umbrage of this Law) a Trade carried on to the universal Detriment of the Nation, the lessening of our Coin, and to the Destruction of Trade, properly so call'd.</p>
+            <p>This appears from the miserable Effects which the Nation at present sadly feels, both in respect of the Diminution of our Publick Treasure, and the Clip<g ref="char:EOLhyphen"/>ping, and debasing all our running Cash: For tho it cannot be suppos'd, That that Act ever intended any other Bullion than Foreign (<hi>i. e.</hi> such as has not been melted down and wrought here in <hi>England</hi>) should be exported; yet under the pretence of such Bullion, not only Silver manufactured here, but also almost all our Mill'd Money, if not vast Quantities of Clippings (melted into Ingots) have been exported openly, under the Name of Foreign Bullion.</p>
+            <p>There has been (as appears by the Account of the Mint) between the <hi>Year</hi> 1662, and 1689. above <hi>Ten Millions</hi> of <hi>Gold</hi> and <hi>Mill'd</hi> Silver Money Coin'd in this Kingdom, which is suppos'd to be twice as much as all the Mo<g ref="char:EOLhyphen"/>ney at present in the Nation, and ten times as much as all the Mill'd Money that's left among us; so that nine Parts in ten have been melted down, and then publickly exported (Custom-free) under the name of Foreign Bullion: And from this Exportation of vast Quantities of our Bullion to <hi>Amsterdam,</hi> &amp;c. for the Coining of <hi>Lion-Dollars,</hi> it is that the <hi>Turk</hi> is suppli'd with vast Sums to carry on the War against the Christian World. For tho the <hi>Dutch</hi> allow the Coining of those Dollars, (tho an old <hi>Danish</hi> Coin) which are more than 30 <hi>per Cent.</hi> (above their true Value) yet they allow it only to the Importer of Bul<g ref="char:EOLhyphen"/>lion, who allows the State 18 <hi>per Cent.</hi> for Coinage, and gains above 12 <hi>per Cent.</hi> to himself for Importation. And it's neither unreasonable nor groundless to believe, that much of our Bullion is got over into <hi>France,</hi> since that Kingdom has rais'd their Money 10 <hi>per Cent.</hi> which must necessarily encourage the Importation of Silver thither, and by consequence enable them the more vigorously to carry on the War against us.</p>
+            <p>From this publick Allowance to Export all sorts of Bullion, ill Men have had an opportunity of carrying off Clippings, without publick Suspicion: And that great Quantities of that sort of Silver have been exported, is not groundless to believe,
+<pb n="2" facs="tcp:176058:3"/>since within these five Years last past (tho there has been very little Imported) about 18000000 of Ounces of Silver have been Exported to <hi>Holland</hi> and other places (as appears by the Custom-House Books) besides what's sent away and not entred, which would have Coin'd above 4650000 <hi>l.</hi> Sterling: and if the <hi>Exporters</hi> were to be examined whence they had this Silver, it's too likely, that the tracing of their Market would run up as high as the Clippers Shears. So that our Treasure in five Years last past is much diminished, and will con<g ref="char:EOLhyphen"/>tinue to diminish (unless timely prevented) till we have nothing but false and adulterated Money left among us, with which at present our Coin is so vitia<g ref="char:EOLhyphen"/>ted, that the Cries of the Poor (who are generally the Sufferers by this false Money) are such as deserve both Pity and Redress.</p>
+            <p>
+               <hi>To remedy which,</hi> It's pray'd that a Law be made <hi>to Prohibit the Exportation of all Bullion, that has been once melted in this Nation, and that our Money be all new coin'd,</hi> to prevent all Clipping for the time to come.</p>
+            <p>But in opposition to this, there are a sort of Men who have grown Rich by the Publick Poverty, and have manag'd very gainful (not to say <hi>unlawful</hi>) Trades; who pretend that,</p>
+            <p>
+               <hi>Obj.</hi> 1. We must export Bullion, or Money, to supply the Army abroad.</p>
+            <p>
+               <hi>Answ.</hi> The <hi>Bank</hi> of <hi>England</hi> has undertaken that Matter; and it's wonderful that these Men should plead a Cause, in which they are little or nothing concern'd, when the <hi>Bank</hi> (the engaged Body) does not think fit to make the Objection. But it's affirmed by those that have formerly serv'd the Army, that they never sent Silver melted in <hi>England,</hi> for that purpose; and if the Accounts of those that have been the great Exporters of our Bullion be examined, 'twill be found that not <hi>One</hi> Ounce in <hi>Ten</hi> was sent for that Service.</p>
+            <p>
+               <hi>Obj.</hi> 2. They Object that there being an Over-Ballance of Trade between <hi>Hol<g ref="char:EOLhyphen"/>land</hi> and <hi>Ʋs,</hi> we must send Bullion to discharge the Debt, which we do not pay with English Commodities.</p>
+            <p>
+               <hi>Ans.</hi> Tho this is an Argument some Men use, yet one would think they should blush to urge it; for if we Buy more than we Sell, we must be undone and ruin'd by our Trade; for every Trade that is manag'd by Money more than by Manufactures, is so far from being an Advantage, that 'tis a Destruction to us.</p>
+            <p>
+               <hi>Obj.</hi> 3d. But a third Objection is, That Gold and Silver being Merchandize, unless there be Liberty to export them, there will be none Imported.</p>
+            <p>
+               <hi>Ans.</hi> It's neither desir'd, nor propos'd, that a Law be made to hinder the Ex<g ref="char:EOLhyphen"/>portation of Bullion in General; but only that all such Bullion as has been once melted down here in <hi>England,</hi> shall not be Exported; that so we may keep the <hi>Treasure</hi> we are at present possest of, and hereafter when the Merchant finds as good a Market here as elsewhere, <hi>it</hi> may be encreased; which unless we do, an Universal Poverty must inevitably break in upon us.</p>
+            <p>
+               <hi>Obj.</hi> 4th. But this Law will never Answer its End, in regard Money or Bullion will be Exported privately notwithstanding the Law.</p>
+            <p>
+               <hi>Ans.</hi> Supposing <hi>some</hi> should be privately carried away, yet there's a vast Dif<g ref="char:EOLhyphen"/>ference between Exporting secretly, under a severe Penalty, contrary <hi>to</hi> Law; And doing it openly and avowedly by Law: and if the Discoverer be Entituled
+<pb n="3" facs="tcp:176058:3"/>to a good share of the Money or Bullion he shall detect, it will certainly in a great Measure prevent its Exportation.</p>
+            <p>As to the Preventing of the Clipping of our Money, it's humbly offer'd, That no way can be so effectual, as the new Coining and Milling all our Mo<g ref="char:EOLhyphen"/>ney. Since our Money being now so clipt, that the Half Crown (as to its intrin<g ref="char:EOLhyphen"/>sick Value) is not worth above 18 <hi>d.</hi> many not above 15 <hi>d.</hi> and some less (besides Brass and mixed Metal) disperst among us; and it's probable that this last year, near 100000 <hi>l.</hi> of this Counterfeit old Money has been imported: And since our Neigh<g ref="char:EOLhyphen"/>bours Coin <hi>Lion-Dollars</hi> (a <hi>Danish</hi> Coin) at 30 <hi>per Cent.</hi> profit. It's no wonder if they Coin old <hi>English</hi> Clipt Money, (which must yield them (though good Sil<g ref="char:EOLhyphen"/>ver) 80, or near 100 <hi>per Cent.</hi> profit); Therefore the longer we stay before we re<g ref="char:EOLhyphen"/>form our Coin, the more of this Clipt Money we shall have to reform; and by consequence, the doing it will be attended with the greater Difficulties.</p>
+            <p>If the Mill'd Crown be raised to 5 <hi>s.</hi> 6 <hi>d.</hi> and the Ten <hi>per Cent.</hi> thereby Advanced be reserved as a Fund towards supplying the Defect of the Clipt Mo<g ref="char:EOLhyphen"/>ney, it will very much lessen the Tax to be rais'd for <hi>that</hi> purpose. And that this will be accompanied with no such severe Consequences as some pre<g ref="char:EOLhyphen"/>tend; but on the contrary, that it's absolutely necessary, will appear,</p>
+            <p n="1">1st, Since our Neighbour Nations have lately rais'd their Money in denomina<g ref="char:EOLhyphen"/>tion, above the intrinsick value; for us not to raise ours, is to encourage the melt<g ref="char:EOLhyphen"/>ing it down for Exportation.</p>
+            <p n="2">2dly, The Silver that is now in our Mill'd Crown-piece is really worth 5 <hi>s.</hi> 6 <hi>d.</hi> to melt for Exportation, though the Piece will go but for 5 <hi>s.</hi> from whence it's become a Trade among some to buy Mill'd Money, but for what end may be easily guess'd, since pieces of that Stamp are become so rare, that they rather look like Medals than the publick and common Coin of the Kingdom.</p>
+            <p n="3">3dly, This will keep our Money at home, as well as preserve it from melting down; and will also cause it to return, if carried abroad: As we saw, when the <hi>Prince</hi> of <hi>Orange</hi> (now our gracious <hi>King</hi>) landed with his Forces in 88. Great Quantities of <hi>Dutch</hi> Money were plenty in all the West-parts of <hi>England,</hi> where his Army lay; and yet in a few Months all were return'd back to <hi>Holland:</hi> And in<g ref="char:EOLhyphen"/>deed no people will be fond of Foreign Coin, which they cannot gain by, in melt<g ref="char:EOLhyphen"/>ing it down; as on the contrary, all will desire Foreign Money, whose worth ex<g ref="char:EOLhyphen"/>ceeds their own at home; which is the true Reason why the <hi>Danes</hi> and <hi>Swedes</hi> are so very covetous of our new Mill'd Crowns.</p>
+            <p>It's not unlikely but that several Persons, who have gotten Estates by this mis<g ref="char:EOLhyphen"/>chievous Trade of exporting our Bullion, if not by <hi>worse Arts,</hi> will endeavour to raise Objections against this so <hi>Just</hi> and <hi>Profitable</hi> a Law; But it's humbly pre<g ref="char:EOLhyphen"/>sum'd, that the Wisdom of this <hi>Honourable House</hi> will detect and repress their Destructive Endeavours. And whatever Objections are urg'd in Printed Papers, or before the Honourable Committee, that shall hear this matter, shall be fully Answered by <hi>Those</hi> who desire nothing but the Welfare and Good of the Publick.</p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:176058:4"/>
+            <p>REASONS For prohibiting the EXPORTATION OF ALL Silver which has been Melted in <hi>England.</hi>
+            </p>
+            <pb facs="tcp:176058:4"/>
+         </div>
+      </back>
+   </text>
+</TEI>
